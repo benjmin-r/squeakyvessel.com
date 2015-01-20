@@ -1,13 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       squeakyvessel
+email:       benjamin@squeakyvessel.com
+author:      Benjamin Reitzammer
+description: "Software Development with Benjamin Reitzammer"
 baseurl:     ""
-url:         "http://pixyll.com"
-
-# Google analytics
-google_analytics:
+url:         "http://squeakyvessel.com/"
 
 # Optional features
 animated:           false
@@ -37,5 +34,3 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
-gems:
-  - jekyll-sitemap
