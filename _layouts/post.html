@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-
 {% assign minutes = content | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
-{% assign minutes = 1 %}
+  {% assign minutes = 1 %}
 {% endif %}
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">Written by {{ site.author }} on {{ page.date | date: "%b %-d, %Y" }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
@@ -19,10 +18,6 @@ layout: default
 <article class="post-content">
   {{ content }}
 </article>
-
-{% if site.show_post_footers %}
-  {% include post_footer.html %}
-{% endif %}
 
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>

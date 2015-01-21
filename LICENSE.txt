@@ -1,4 +1,5 @@
-Copyright (c) 2014 John Otander
+Design: Copyright (c) 2014 John Otander
+Content: Copyright (c) 2014, 2015 Benjamin Reitzammer
 
 MIT License
 
