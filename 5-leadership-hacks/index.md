@@ -33,7 +33,9 @@ thoughts on this talk or on leadership in general.
 
 ### Slides
 
-*the slides will be published soon after the talk*
+<script async class="speakerdeck-embed"
+data-id="8a52127195f24823896d6f0b428a7b04" data-ratio="1.33333333333333"
+src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Further Reading
 
