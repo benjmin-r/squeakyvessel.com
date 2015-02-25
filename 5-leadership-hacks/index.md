@@ -42,6 +42,7 @@ src="//speakerdeck.com/assets/embed.js"></script>
 The following are some resources and books that go into more detail in some
 areas I touched upon in the talk.
 
+* [John Allspaw - On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [popforms.com - Influence without Authority](https://popforms.com/influence-without-authority/)
 * [Software Lead Weekly][swl] Newsletter
 * [Jonathan Klein - Cognitive Biases in Engineering Organizations](http://jkle.in/biases)
