@@ -161,23 +161,30 @@ that. Mature developers have to like making decisions.
 
 #### Empathy
 
-Empathy really is one of my favourite words and concepts.
+Empathy is noting, and better even knowing, the situation another person is in.
 
-Without empathy you cannot be effective or even successful in working together
-with others. You need to be empathic to resolve more conflicts than you create
-and therefore providing value to and with others. And so empathy is an
-absolutely required skill for mature developers.
+And it's really is one of my favourite words and concepts. Without empathy you
+cannot be effective or even successful in working together with others. 
 
-Empathy enables understanding others’ goals. But before that, one must have a 
+You need to be empathic to resolve more conflicts than you create and therefore
+providing value to and with others. And so empathy is an absolutely required
+skill for mature developers.
 
-XXX work further on this.
+Empathy enables understanding others’ goals. But before that, one must have a
+real interest in getting to know their peers. What is it that motivates them?
+What do they get passionate about? What makes them happy? What frustrates them?
+Knowing those things about someone actually means having a somewhat real
+relationship with that person. And that is the basis for empathizing with them.
 
-Understand goals of others
-Real interest in getting to know their peers
+Without a relationship with that other person, you can still try to know about
+someone else's situation, but you're making assumptions at best if you don't
+know the other person. And assumptions can be wrong.
 
-they know how frustration and happiness for 
-Putting conscious effort into getting to know others is crucial for
-this.
+Another aspect which makes empathy an easy concept in theory but more complex in
+reality is, that it can and is easily mistaken with sympathy. Sympathy is
+empathy plus actually feeling the other person's feelings. Which is not always
+helpful. It may even be confusing, because it may reinforce your belief that
+your assumptions about another person's situation are correct.
 
 
 #### Excellent Communicator
@@ -232,8 +239,9 @@ already an timeless classic.
 Some much more recent pieces on the topic of Tech Leads such as ["Good Tech
 Lead, Bad Tech Lead"][good-bad-tech-lead], ["No Tech Lead"][no-tech-lead], ["10
 Reasons You Shouldn’t Have Senior Developers, Tech Leads or
-Architects"][10-reasons] and a lot of stuff by [Pat Kua][patkua] provided
-loads of inspiration.
+Architects"][10-reasons], a lot of stuff by [Pat Kua][patkua] and the
+ever-excellent ["Leading Snowflakes"][leading-snowflakes] by Oren Ellenbogen,
+they all provided loads of inspiration. 
 
 As well loads of very good reads from [Kate Madsudeira][katemats] as well her
 timeless [talk on leveling up your engineering and operations
@@ -259,6 +267,7 @@ influenced my thinking, but those are the most prominent ones.
 [leveling-up]: https://www.youtube.com/watch?v=lgxEmiMJVq4
 [swkrm]: https://softwerkskammer.org/groups/rheinmain
 [socrates]: http://www.socrates-conference.de/
+[leading-snowflakes]: http://leadingsnowflakes.com/
 [patkua]: https://www.thekua.com/atwork/
 [nvc]: http://en.wikipedia.org/wiki/Nonviolent_Communication
 [nvc-book]: https://books.google.co.uk/books?id=PtPFAgAAQBAJ&printsec=frontcover&dq=isbn:1892005034&hl=en&sa=X&ei=F31MVYOwN5LQ7Qag3oFg&ved=0CCEQ6AEwAA#v=onepage&q&f=false
