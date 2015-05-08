@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mature Engineers"
+title: "Mature Developer"
 date: 2015-03-22 21:28:00
 categories:
 summary: ""
@@ -11,16 +11,10 @@ vaamo](http://codecraft.vaamo.de/jobs/) again, I realized that I had put off one
 thing for much too long already: Defining and really putting down my definition
 of maturity and technical leadership in software teams.
 
-Why do I want to capture my understanding of this? I strongly believe that in
-order to really think something through and most of all want to explain it to
-others, you must write it down. 
+In order to get this finally sorted out, I'll lay out the aspects that together
+from a mature developer.
 
-Why do I need to think this through? Because I'm convinced that I need to convey
-my notion of a mature team member succinctly in order to recruit and build a
-mature team.
-
-
-### What Defines Mature Engineers?
+### What Defines Mature Developers?
 
 An engineer's maturity is mainly defined by their soft-skills, less so by their
 technical abilities and knowledge.
@@ -46,15 +40,15 @@ what is going on in the moment, without judgment.
 And I strongly believe there's a correlation between one’s ability and willingness
 to pay attention and to self-reflect and their ability to improve.
 
-So one of the first and most important qualities of mature engineers is they're
+So one of the first and most important qualities of mature developers is they're
 more often than not paying attention to what is going on around them. They're
 deliberately taking their time to observe before proceeding (put succinctly as
 STOP, Stop, Take a breath, Observe, Proceed).
 
-Mature engineers are being mindful about themselves and their surrounding, in
+Mature developers are being mindful about themselves and their surrounding, in
 order to be able to always keep improving their own work and approaches.
 
-Mindfulness sooner or later leads mature engineers to become aware of, learn
+Mindfulness sooner or later leads mature developers to become aware of, learn
 about [cognitive biases][cognitive-biases] and find ways to handle them.
 
 
@@ -70,7 +64,7 @@ alongside maturity, as one is exposed to more problems, technologies and people
 over time.
 
 And it's also important that this curiousity is not limited to technical topics
-only. [Mature engineers are curious about people, how they tick, what's
+only. [Mature developers are curious about people, how they tick, what's
 interesting to them and much more][skamille-curiousity].
 
 
@@ -114,7 +108,7 @@ the vision in terms of relevance to business value and other aspects.
 
 #### Understanding Business Value
 
-Mature engineers know and understand at every turn, that everything they do
+Mature developers know and understand at every turn, that everything they do
 serves the purpose of providing value to someone else, most of the times some
 kind of business.
 
@@ -130,14 +124,14 @@ reduces friction when working with non-technical people.
 #### Reasonable Risk-taking
 
 Putting their actions and plans into a bigger, non-technical context also
-enables mature engineers to better assess risks. For example, does the risk of
+enables mature developers to better assess risks. For example, does the risk of
 introducing a new technology possibly outweigh the business benefits that are to
 be expected?
 
 Assessing and understanding risks better puts them into a position where it's
 also more likely they'll actually take risks. Risks that without the knowledge
 about business value and the bigger context may look to big to be worthwhile.
-But not for mature engineers who are able to see beyond the obvious risks and
+But not for mature developers who are able to see beyond the obvious risks and
 include more aspects into their judgement.
 
 
@@ -149,7 +143,7 @@ Without empathy you cannot be effective or even successful in working together
 with others. You need to be empathic to resolve more conflicts than you create
 and therefore providing value to and with others.
 
-Empathy enables understanding others’ goals
+Empathy enables understanding others’ goals. Together
 
 XXX work further on this.
 
@@ -163,10 +157,10 @@ this.
 
 #### Excellent Communicator
 
-I've touched on mature engineers being good communicators earlier already, but
+I've touched on mature developers being good communicators earlier already, but
 of course this deserves to stand on it's own.
 
-Mature engineers communicate excellently by always taking the context of their
+Mature developers communicate excellently by always taking the context of their
 communicating peers into account. They know or at least have a sense about their
 counterpart's goals, their state of mind, sometimes maybe even the mood they're
 in, and how their peers usually communicate. 
@@ -180,8 +174,22 @@ defensive stance right now, in order to relax a situation?
 Put simply: Always know what your counterparts need and want to know. And
 deliver it.
 
+XXX communicate assumptions they've made. See "decisiveness", SW dev is
+making & documenting decisions. Not all decisions can be based on experience or
+real data, therefore assumptions need to be made
 
-### Other opinions
+xxx assumptions also related to risk-taking, mature eng are risk takers, that
+are also comfortable with making assumptions, but always knowing that they must
+communicate them, so that others have a as complete as possible picture of what
+they're talking about
+
+#### Decisiveness
+
+XXX reference @tottinge's mail ... they need to make decissions on incomplete
+data, intuition. They must be comfortable with that
+
+
+### Other Opinions
 
 As with most things, many people have come before me and shared their view and
 they influenced my thinking or helped me shape my own way.
