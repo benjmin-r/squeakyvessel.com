@@ -165,9 +165,10 @@ Empathy really is one of my favourite words and concepts.
 
 Without empathy you cannot be effective or even successful in working together
 with others. You need to be empathic to resolve more conflicts than you create
-and therefore providing value to and with others.
+and therefore providing value to and with others. And so empathy is an
+absolutely required skill for mature developers.
 
-Empathy enables understanding others’ goals. Together
+Empathy enables understanding others’ goals. But before that, one must have a 
 
 XXX work further on this.
 
@@ -210,6 +211,7 @@ focus on what's to be done, and less about establishing a common understanding
 first.
 
 
+
 ### Other Opinions
 
 As with most things, many people have come before me and shared their view and
@@ -230,11 +232,16 @@ already an timeless classic.
 Some much more recent pieces on the topic of Tech Leads such as ["Good Tech
 Lead, Bad Tech Lead"][good-bad-tech-lead], ["No Tech Lead"][no-tech-lead], ["10
 Reasons You Shouldn’t Have Senior Developers, Tech Leads or
-Architects"][10-reasons] provided inspiration.
+Architects"][10-reasons] and a lot of stuff by [Pat Kua][patkua] provided
+loads of inspiration.
 
 As well loads of very good reads from [Kate Madsudeira][katemats] as well her
 timeless [talk on leveling up your engineering and operations
 role][leveling-up].
+
+Especially when it comes to communicating, practicing and exercising empathy the
+concept of ["Non-Violent Communication"][nvc] and the [book by Marshall Rosenberg
+with the same title][nvc-book], proved invaluable to me.
 
 Of course, many more opinions, such as talking with my colleague
 [Timo](https://twitter.com/timohirt), with members of the local
@@ -252,3 +259,6 @@ influenced my thinking, but those are the most prominent ones.
 [leveling-up]: https://www.youtube.com/watch?v=lgxEmiMJVq4
 [swkrm]: https://softwerkskammer.org/groups/rheinmain
 [socrates]: http://www.socrates-conference.de/
+[patkua]: https://www.thekua.com/atwork/
+[nvc]: http://en.wikipedia.org/wiki/Nonviolent_Communication
+[nvc-book]: https://books.google.co.uk/books?id=PtPFAgAAQBAJ&printsec=frontcover&dq=isbn:1892005034&hl=en&sa=X&ei=F31MVYOwN5LQ7Qag3oFg&ved=0CCEQ6AEwAA#v=onepage&q&f=false
