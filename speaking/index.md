@@ -13,6 +13,7 @@ and/or usergroups.
 If you'd like me to speak about the below or other topics, you can [contact
 me](/contact/)
 
+
 ## [5 Leadership Hacks](/5-leadership-hacks/)
 
 A talk I gave at [Entwicklertag
@@ -24,6 +25,16 @@ range of teams and circumstances, which can help you lead others.
 
 After describing those "hacks" I lay down the fundamentals of why those
 practices work and how you can take your leadership skills to the next level.
+
+
+## [Event Sourcing in der Praxis](https://github.com/Ookami86/event-sourcing-in-practice)
+
+A talk about [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+I gave, together with [Johannes Seitz](http://www.printhelloworld.de/), at the
+[Entwicklertag Frankfurt
+2014](http://www.entwicklertag.de/frankfurt/2014/session/event-sourcing-der-praxis)
+and the [Developer Week 2014](http://www.developer-week.de/History/2014)
+
 
 ## [Software Craftsmanship or The Agile Hangover](http://static.squeakyvessel.com/slides/what-is-software-craftsmanship_agilerm-ug-20120816.pdf)
 
@@ -38,6 +49,7 @@ what I was talking about
 
 The [slides](http://static.squeakyvessel.com/slides/what-is-software-craftsmanship_agilerm-ug-20120816.pdf)
 are pretty visual, though the (german) notes are very extensive.
+
 
 ## Architectural Katas
 
@@ -60,6 +72,7 @@ As far as I know, it was the first Architectural Kata held in germany.
 
 Later that year, I also facilitated a Architectural Kata session at the
 [XPDays DE conference](http://www.xpdays.de/twiki/bin/view/XPDays2012).
+
 
 ## [Soziale Netze Integrieren](http://static.squeakyvessel.com/soziale-netze-integrieren/)
 
