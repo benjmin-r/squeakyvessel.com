@@ -1,32 +1,29 @@
 ---
 layout: post
-title: "Mature Developer"
-date: 2015-03-22 21:28:00
+title: "Mature Developers"
+date: 2015-05-12 21:28:00
 categories:
-summary: ""
+summary: "Some time ago, as I started to spend more time on growing our tech team at vaamo again, I realized that I had put off one thing for much too long already: Putting down my definition of maturity and technical leadership in software teams.</p><p>In order to get this finally sorted out, I'll lay out the aspects that together make up a mature developer.</p>"
 ---
 
 Some time ago, as I started to spend more time on [growing our tech team at
 vaamo](http://codecraft.vaamo.de/jobs/) again, I realized that I had put off one
-thing for much too long already: Defining and really putting down my definition
-of maturity and technical leadership in software teams.
+thing for much too long already: Putting down my definition of maturity and
+technical leadership in software teams.
 
 In order to get this finally sorted out, I'll lay out the aspects that together
-from a mature developer.
+make up a mature developer.
 
-### What Defines Mature Developers?
+
+### What Defines a Mature Developer?
 
 A developer's maturity is mainly defined by their soft-skills, less so by their
 technical abilities and knowledge.
 
-For one, everybody who shows most of the following characteristics is very
-likely smart enough to gather enough technical skills by simple exposure to
-experience over time.
-
-Another assumption underlying this postulate also being, that it's very unlikely
+The assumption underlying this postulate being, that it's very unlikely
 for a person to combine most of the below mentioned maturity traits without
 going through some years of working in teams, in which the technical skills will
-likely get sorted out in a way or another.
+likely get sorted out one way or another.
 
 But what actually are those characteristics, soft-skills that make up mature
 developers?
@@ -39,7 +36,7 @@ what is going on in the moment, without judgment.
 
 And I strongly believe there's a meaningful correlation between one’s ability
 and willingness to pay attention, to self-reflect and their ability to
-improve.
+improve themselves and those around them.
 
 So one of the first and most important qualities of mature developers is they're
 more often than not paying attention to what is going on around them. They're
@@ -72,7 +69,7 @@ interesting to them and much more][skamille-curiousity].
 
 #### Pragmatism
 
-The necessary counter-balance for curiousity then is pragmatism. As one is
+The necessary counter-balance for curiousity is pragmatism. As one is
 curious about almost anything, they usually need to choose quickly about what's
 important and when it's important.
 
@@ -102,14 +99,14 @@ easily.
 #### Having and Sharing a Technical Vision
 
 Where should the systems that people are working on should lead to? How do you
-know it's a success? What's there to do beyond the obvious stuff that's needed
-to get features out the door in the next three months and what's the thinking
-and reasoning behind those visionary aspects?
+know it's a success? What's there to do, beyond the obvious stuff, that's needed
+to get features out the door in the next three months and beyond and what's the
+thinking and reasoning behind those visionary aspects?
 
 Not the least part of having this technical vision is then also to actually
-share it with relevant people. Ideally with anybody who is even remotely
-involved in working with or shaping the system in the future.  This means people
-like product managers etc should also know about the vision.
+[share it with relevant people][skamille-give-hope]. Ideally with anybody who is
+even remotely involved in working with or shaping the system in the future.
+This means people like product managers etc should also know about the vision.
 
 Sharing the vision with other involved parties not only serves as a perfect
 opportunity for practicing one's skills to explain deeply technical terms and
@@ -141,16 +138,16 @@ be expected?
 
 Assessing and understanding risks better puts them into a position where it's
 also more likely they'll actually take risks. Risks which, without the knowledge
-about business value and the bigger context, may look to big to be worthwhile.
+about business value and the bigger context, may look too big to be worthwhile.
 But not for mature developers who are able to see beyond the obvious risks and
 include more aspects into their judgement.
 
 Reasonable risk-taking furthermore involves excellent communications because
 assumptions must be made about the intended outcome of risk taken, and
 incomplete data leading to the decision for taking a risk must be accompanied by
-assumptions. Mature developers, know that both kinds of assumptions must be
-communicated to others in order to raise the chance for the risk-taking to be
-worthwhile.
+another set of assumptions. Mature developers, know that both kinds of
+assumptions must be communicated to others in order to raise the chance for the
+risk-taking to be worthwhile.
 
 Lastly the ability to take reasonable risks requires a certain amount of
 determination, of decisiveness. Because while it's all nice & easy to theorize
@@ -161,13 +158,14 @@ that. Mature developers have to like making decisions.
 
 #### Empathy
 
-Empathy is noting, and better even knowing, the situation another person is in.
+Empathy is noticing, and better even knowing, the situation another person is
+in.
 
 And it's really is one of my favourite words and concepts. Without empathy you
-cannot be effective or even successful in working together with others. 
+cannot be effective or even successful in working together with others.
 
 You need to be empathic to resolve more conflicts than you create and therefore
-providing value to and with others. And so empathy is an absolutely required
+providing value to and with others. So empathy is an absolutely required
 skill for mature developers.
 
 Empathy enables understanding others’ goals. But before that, one must have a
@@ -178,13 +176,15 @@ relationship with that person. And that is the basis for empathizing with them.
 
 Without a relationship with that other person, you can still try to know about
 someone else's situation, but you're making assumptions at best if you don't
-know the other person. And assumptions can be wrong.
+know the other person. And your assumptions will be wrong. Probably more often
+than not.
 
 Another aspect which makes empathy an easy concept in theory but more complex in
 reality is, that it can and is easily mistaken with sympathy. Sympathy is
 empathy plus actually feeling the other person's feelings. Which is not always
 helpful. It may even be confusing, because it may reinforce your belief that
-your assumptions about another person's situation are correct.
+your assumptions about another person's situation are correct. (h/t to [Oren
+Ellenbogen][oren] for making this distinction clear to me)
 
 
 #### Excellent Communicator
@@ -218,7 +218,6 @@ focus on what's to be done, and less about establishing a common understanding
 first.
 
 
-
 ### Other Opinions
 
 As with most things, many people have come before me and shared their view and
@@ -231,25 +230,21 @@ to the exact references anymore. I'll leave it to the interested reader as an
 exercise to find out where exactly I copied from.
 
 The most comprehensive and absolute must-read on the topic is [John
-Allspaw](https://twitter.com/jallspaw)'s ["On being a Senior
+Allspaw](https://twitter.com/allspaw)'s ["On being a Senior
 Engineer"][senior-engineer]. It's not only a testament to an amazing amount of
 clear thinking on behalf of the author, but is amazingly comprehensive and
-already an timeless classic.
+already a timeless classic. And I owe John Allspaw's writing a lot, in that it
+broadened my horizon and gave words to a lot of things that were only
+unconscious before.
 
 Some much more recent pieces on the topic of Tech Leads such as ["Good Tech
-Lead, Bad Tech Lead"][good-bad-tech-lead], ["No Tech Lead"][no-tech-lead], ["10
-Reasons You Shouldn’t Have Senior Developers, Tech Leads or
-Architects"][10-reasons], a lot of stuff by [Pat Kua][patkua] and the
-ever-excellent ["Leading Snowflakes"][leading-snowflakes] by Oren Ellenbogen,
-they all provided loads of inspiration. 
-
-As well loads of very good reads from [Kate Madsudeira][katemats] as well her
+Lead, Bad Tech Lead"][good-bad-tech-lead], ["No Tech Lead"][no-tech-lead], a lot
+of stuff by [Pat Kua][patkua] and the ever-excellent ["Leading
+Snowflakes"][leading-snowflakes] by [Oren Ellenbogen][oren] they all provided
+loads of inspiration.  
+As well lots of very good reads from [Kate Madsudeira][katemats] as well her
 timeless [talk on leveling up your engineering and operations
 role][leveling-up].
-
-Especially when it comes to communicating, practicing and exercising empathy the
-concept of ["Non-Violent Communication"][nvc] and the [book by Marshall Rosenberg
-with the same title][nvc-book], proved invaluable to me.
 
 Of course, many more opinions, such as talking with my colleague
 [Timo](https://twitter.com/timohirt), with members of the local
@@ -258,6 +253,7 @@ influenced my thinking, but those are the most prominent ones.
 
 
 [skamille-curiousity]: http://whilefalse.blogspot.de/2015/03/get-curious.html
+[skamille-give-hope]: http://whilefalse.blogspot.de/2014/10/when-defining-reality-dont-forget-to.html
 [cognitive-biases]: http://jkle.in/biases
 [10-reasons]: http://www.grahamlea.com/2013/07/10-reasons-you-shouldnt-have-senior-developers-tech-leads-or-architects/
 [no-tech-lead]: http://adamralph.com/2014/03/15/no-tech-lead/
@@ -269,5 +265,4 @@ influenced my thinking, but those are the most prominent ones.
 [socrates]: http://www.socrates-conference.de/
 [leading-snowflakes]: http://leadingsnowflakes.com/
 [patkua]: https://www.thekua.com/atwork/
-[nvc]: http://en.wikipedia.org/wiki/Nonviolent_Communication
-[nvc-book]: https://books.google.co.uk/books?id=PtPFAgAAQBAJ&printsec=frontcover&dq=isbn:1892005034&hl=en&sa=X&ei=F31MVYOwN5LQ7Qag3oFg&ved=0CCEQ6AEwAA#v=onepage&q&f=false
+[oren]: https://twitter.com/orenellenbogen
