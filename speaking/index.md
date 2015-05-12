@@ -26,6 +26,14 @@ range of teams and circumstances, which can help you lead others.
 After describing those "hacks" I lay down the fundamentals of why those
 practices work and how you can take your leadership skills to the next level.
 
+## [Sane Secrets Sharing](/sane-secrets-sharing/)
+
+A talk I gave in the Ignite format on 24th October 2014 at the [Berlin DevOps
+Days](http://www.devopsdays.org/events/2014-berlin/).
+
+In this talk I describe how we share secrets inside the
+[vaamo](http://codecraft.vaamo.de) development & operations team, and how we
+integrate them into our Chef-based Configuration Management.
 
 ## [Event Sourcing in der Praxis](https://github.com/Ookami86/event-sourcing-in-practice)
 
