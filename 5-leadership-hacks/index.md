@@ -42,6 +42,8 @@ src="//speakerdeck.com/assets/embed.js"></script>
 The following are some resources and books that go into more detail in some
 areas I touched upon in the talk.
 
+* My Definition of [Mature Developers][mature-dev]
+* My writing [On the Purpose of One on Ones][purpose-1on1s]
 * [John Allspaw - On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [popforms.com - Influence without Authority](https://popforms.com/influence-without-authority/)
 * [Software Lead Weekly][swl] Newsletter
@@ -61,3 +63,5 @@ Books
 [leading-snowflakes]: http://leadingsnowflakes.com/
 [swl]: http://softwareleadweekly.com/
 [nvc]: http://www.goodreads.com/book/show/71730.Nonviolent_Communication
+[purpose-1on1s]: /2015/05/21/1on1-purpose-goals/
+[mature-dev]: /2015/05/12/mature-developers/
