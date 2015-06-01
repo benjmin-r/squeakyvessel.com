@@ -98,7 +98,7 @@ easily.
 
 #### Having and Sharing a Technical Vision
 
-Where should the systems that people are working on should lead to? How do you
+Where should the systems that people are working on lead to? How do you
 know it's a success? What's there to do, beyond the obvious stuff, that's needed
 to get features out the door in the next three months and beyond and what's the
 thinking and reasoning behind those visionary aspects?
