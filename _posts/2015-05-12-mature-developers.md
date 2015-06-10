@@ -55,7 +55,7 @@ about [cognitive biases][cognitive-biases] and find ways to handle them.
 
 Technology work is creative work. And I simply can't imagine someone being good
 at it, by any measure, without being curious. Curious about the surrounding
-technology, about how things work, about why things are they way they are etc
+technology, about how things work, about why things are the way they are etc
 etc.
 
 And this curiousity should not diminish over time. Rather it should always grow
