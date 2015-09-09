@@ -9,6 +9,17 @@ summary: "Over the course of those last two years, I found a structure for havin
 *This is a continuation of my previous post, in which I covered [the goals and
 purposes of One on One Meetings][1on1-purpose]*
 
+#### Table of Contents
+
+- [Prepare - Choose a Theme](#prepare)
+- [Listen](#listen)
+- [Status Update](#update)
+- [Conclude with Something Actionable](#actionable)
+- [Dream Big](#dream)
+- [How Long is a 1on1?](#length)
+- [TL;DR](#tldr)
+
+
 Over the course of those last two years, I found a structure for having 1on1
 meetings that helps me a lot to get the most of these meetings, and which also
 helped to make 1on1s a deeply ingrained part of vaamo's tech team culture.
@@ -23,6 +34,9 @@ If you're starting out doing 1on1s with your team, I suggest you start out with
 one element only and over time add more elements.  
 They're ordered in a way that each element builds upon the previous ones and
 expands them in a sensible way.
+
+
+<a name="prepare"></a>
 
 ### Prepare - Choose a Theme
 
@@ -67,6 +81,8 @@ matching inspirational questions to to your and your team member's mailbox at a
 specified interval.
 
 
+<a name="listen"></a>
+
 #### Listen
 
 This is somewhat an antithesis to the previous structuring element, but
@@ -91,6 +107,8 @@ speaking. In those moments you think you know what the other person is saying.
 But really all you're doing is reacting to your pre-defined notion you have
 about the other person.
 
+
+<a name="update"></a>
 
 #### Status Update
 
@@ -122,6 +140,8 @@ So, don't be too dogmatic on your definition of 1on1s but rather make sure
 it's useful for everybody.
 
 
+<a name="actionable"></a>
+
 #### Conclude with Something Actionable
 
 The temptation is high to end the meeting, when you both feel there's nothing
@@ -133,6 +153,11 @@ No! Don't do that.
 
 ![](/static/img/2015-08-26/actionable.jpg)
 
+<div class="photo-attribute">
+<a href="https://www.flickr.com/photos/wildlife_encounters/8024190520">Photo</a> under
+"CC BY 2.0 License" by <a
+href="https://www.flickr.com/photos/wildlife_encounters/">Steve Slater</a>
+</div>
 
 Take those extra 5 minutes if you will and decide together what the next action
 for each or both of you should be. How can each of you make the next minor step
@@ -150,6 +175,8 @@ trust. By constantly "showing up", delivering on the agreed actionables, trust
 will become a natural part of your relationship with your team member.
 
 
+<a name="dream"></a>
+
 #### Dream Big
 
 Having 1on1s and with this a regular point of contact, you and your
@@ -158,6 +185,12 @@ personal and/or career goal.
 
 ![](/static/img/2015-08-26/dream.jpg)
 
+<div class="photo-attribute">
+<a
+href="https://www.flickr.com/photos/kailehmann/19113681318">Photo</a> under
+"CC BY 2.0 License" by <a
+href="https://www.flickr.com/photos/kailehmann/">Kai Lehmann</a>
+</div>
 
 In most circumstances the product and what the company wants to do and achieve
 is more or less well taken care of and worked towards. But when a single team
@@ -167,10 +200,20 @@ progress. And the rhythm allows you to chip away at this far-away looming
 mountain of work. One step at a time.
 
 
-### Hot Topic: How long is a 1on1?
+<a name="length"></a>
+
+#### Hot Topic: How long is a 1on1?
 
 One of the minor but constantly asked-first questions about 1on1s is about the
 length of the meeting. "How much time should we spend on the 1on1?"
+
+![](/static/img/2015-08-26/time.jpg)
+
+<div class="photo-attribute">
+<a href="https://www.flickr.com/photos/denicide/3075249991/">Photo</a> under
+"CC BY 2.0 License" by <a
+href="https://www.flickr.com/photos/denicide/">valentin.d</a>
+</div>
 
 Obviously the only right answer is a "depends".
 
@@ -178,13 +221,25 @@ I've read a lot of articles over time, where people mention 30min per 1on1 with
 a weekly or bi-weekly schedule.
 
 Personally I prefer longer but slightly less-frequent 1on1s, and currently my
-1on1s are 1h long and we do them bi-weekly.  
-I prefer this schedule, as I feel that some topics, especially the hard ones,
-need time. The really interesting stuff always happens sometime into the
-meeting, when people become more relaxed.  
+1on1s are 1h long and we do them bi-weekly. I prefer this schedule, as I feel
+that some topics, especially the hard ones, need time. The really interesting
+stuff always happens sometime into the meeting, when people become more relaxed.
 But that may very well be related to my personality, as I'm more the kind of
 person who likes to take it's time with hard topics.
 
+
+<a name="tldr"></a>
+
+### TL;DR
+
+If you're not doing 1on1s yet with your team, I strongly encourage you to start
+doing so. And if you're not sure yet, take a look at the [why behind
+1on1s][1on1-purpose].
+
+When starting out, begin with only a few practices outlined above and extend
+over time. Time is on your side when doing 1on1s. If you stick with them,
+you'll have lots of iterations soon and can expand and play with the format
+sooner than you think.
 
 
 [1on1-q-newsletter]: https://popforms.com/ones/
