@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Structure of One on Ones"
-date: 2015-08-26 19:20:00
+date: 2015-09-09 23:20:00
 categories:
 summary: "Over the course of those last two years, I found a structure for having 1on1 meetings that helps me a lot to get the most of these meetings, and which also helped to make 1on1s a deeply ingrained part of vaamo's tech team culture."
 ---
@@ -45,7 +45,7 @@ meeting][what-to-expect-employee] and I'd generally agree with that statement,
 it's your job as manager to have your team member's back and make sure the
 1on1 is useful in any case.
 
-![](/static/img/2015-08-26/prepare.jpg)
+![](/static/img/2015-09/prepare.jpg)
 
 <div class="photo-attribute">
 <a href="https://www.flickr.com/photos/photomonkey/5669185/">Photo</a> under "CC
@@ -88,7 +88,7 @@ specified interval.
 This is somewhat an antithesis to the previous structuring element, but
 nevertheless very if not more important.
 
-![](/static/img/2015-08-26/listening.jpg)
+![](/static/img/2015-09/listening.jpg)
 
 <div class="photo-attribute">
 <a href="https://www.flickr.com/photos/streetmatt/15851429459/">Photo</a> under
@@ -116,7 +116,7 @@ An important purpose of 1on1s is to get to know your team members' views and
 feelings about various things. And among "those various things" are also, let's
 be honest, current projects and tasks.
 
-![](/static/img/2015-08-26/update.jpg)
+![](/static/img/2015-09/update.jpg)
 
 <div class="photo-attribute">
 <a href="https://www.flickr.com/photos/pedrosimoes7/8241346527">Photo</a> under
@@ -151,7 +151,7 @@ everything's great. You're awesome, your team member is awesome. And that's it.
 
 No! Don't do that.
 
-![](/static/img/2015-08-26/actionable.jpg)
+![](/static/img/2015-09/actionable.jpg)
 
 <div class="photo-attribute">
 <a href="https://www.flickr.com/photos/wildlife_encounters/8024190520">Photo</a> under
@@ -183,7 +183,7 @@ Having 1on1s and with this a regular point of contact, you and your
 team member have a venue for working towards a larger, possibly far away
 personal and/or career goal.
 
-![](/static/img/2015-08-26/dream.jpg)
+![](/static/img/2015-09/dream.jpg)
 
 <div class="photo-attribute">
 <a
@@ -207,7 +207,7 @@ mountain of work. One step at a time.
 One of the minor but constantly asked-first questions about 1on1s is about the
 length of the meeting. "How much time should we spend on the 1on1?"
 
-![](/static/img/2015-08-26/time.jpg)
+![](/static/img/2015-09/time.jpg)
 
 <div class="photo-attribute">
 <a href="https://www.flickr.com/photos/denicide/3075249991/">Photo</a> under
