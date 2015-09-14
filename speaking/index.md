@@ -12,6 +12,21 @@ The following is a list of talks I gave at conferences and/or usergroups.
 If you'd like me to speak about the below or other topics, you can [contact
 me](/contact/)
 
+## Innovation & Value with Scala, not because
+
+I gave this talk first at an invite-only workshop of the consulting firm
+[AccSo](http://www.accso.de/).
+
+In November 2015 I'll present the talk at the [XP Days
+Germany](http://www.xpdays.de/2015/sessions/101-innovation-value-mit-scala-nicht-wegen.html)
+conference.
+
+The talk first covers how we made our [technology
+choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html) in favor
+of Scala. It continues to take a look at the wanted and unwanted consequences of
+this choice and closes with my thoughts on how, if at all, it enabled the team
+to deliver innovation and value to our business.
+
 
 ## [5 Leadership Hacks](/5-leadership-hacks/)
 
