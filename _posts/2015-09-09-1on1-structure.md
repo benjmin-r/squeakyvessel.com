@@ -242,7 +242,7 @@ you'll have lots of iterations soon and can expand and play with the format
 sooner than you think.
 
 
-[1on1-q-newsletter]: https://popforms.com/ones/
+[1on1-q-newsletter]: https://www.safaribooksonline.com/blog/better-1-1s/
 [101-questions]: http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
 [1on1-purpose]: /2015/05/21/1on1-purpose-goals/
 [what-to-expect-employee]: https://getlighthouse.com/blog/one-on-ones-employee-know/

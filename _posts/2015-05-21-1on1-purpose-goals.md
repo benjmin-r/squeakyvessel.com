@@ -127,5 +127,5 @@ doing 1on1s.
 [rands-vent]: http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
 [codecraft-self-intro]: http://codecraft.vaamo.de/2015/04/29/introducing-myself-benjamin.html
 [getl-how-to-start]: https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/
-[popf-1on1-that-matters]: https://popforms.com/30-minutes-one-on-one/
+[popf-1on1-that-matters]: https://www.safaribooksonline.com/blog/2014/09/30/30-minutes-one-on-one/
 [hbr-small-wins]: https://hbr.org/2011/05/the-power-of-small-wins
