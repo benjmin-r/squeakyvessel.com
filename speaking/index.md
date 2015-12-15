@@ -4,7 +4,7 @@ title: Speaking
 date: 2013-01-29 11:57:08.000000000 +01:00
 categories: []
 tags: []
-author: Benjamin Reittzammer
+author: Benjamin Reitzammer
 ---
 
 The following is a list of talks I gave at conferences and/or usergroups.
@@ -12,20 +12,46 @@ The following is a list of talks I gave at conferences and/or usergroups.
 If you'd like me to speak about the below or other topics, you can [contact
 me](/contact/)
 
-## Innovation & Value with Scala, not because
+## [You're doing it wrong ...](/youre-doing-it-wrong/)
 
-I gave this talk first at an invite-only workshop of the consulting firm
-[AccSo](http://www.accso.de/).
+... *Why your technology stack doesn't matter for your product's success!*
 
-In November 2015 I'll present the talk at the [XP Days
-Germany](http://www.xpdays.de/2015/sessions/101-innovation-value-mit-scala-nicht-wegen.html)
-conference.
+In this talk I argue, that the information technology and especially the
+software development industry enjoys to talk about their technology stacks and
+programming languages a lot, and we attribute a lot of our success to these
+technologies, we're really doing it wrong. And while we often pride ourselves in
+using "the best tool for the job", I argue in this talk that the tool actually
+plays only a minor role in the success of our products and projects.
+
+Other factors, primarily the way we interact, treat each other and the
+principles that form the basis of our interactions and work are far more
+important to making our products successful.
+
+I present the talk at the following conferences:
+
+- [Topconf](http://topconf.com/linz-2016/trackevent/youre-doing-it-wrong-why-your-technology-stack-doesnt-matter-for-your-products-success/)
+  in Linz, Austria on 3-Feb-2016
+
+
+## [Innovation & Value with Scala, not because](/innovation-value-scala/)
 
 The talk first covers how we made our [technology
 choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html) in favor
 of Scala. It continues to take a look at the wanted and unwanted consequences of
 this choice and closes with my thoughts on how, if at all, it enabled the team
 to deliver innovation and value to our business.
+
+I present the talk at the following conferences:
+
+- [XP Days
+  Germany](http://www.xpdays.de/2015/sessions/101-innovation-value-mit-scala-nicht-wegen.html)
+  in Karlsruhe on 26-Nov-2015
+- [Voxxed
+  Days](http://voxxeddaysberlin2016.sched.org/event/5DEX/innovation-value-with-scala-not-because)
+  in Berlin on 28-Jan-2016
+- [Entwicklertag
+  Frankfurt](https://entwicklertag.de/frankfurt/2016/innovation-value-mit-scala-nicht-wegen)
+  in Frankfurt on 10-Mar-2016
 
 
 ## [5 Leadership Hacks](/5-leadership-hacks/)
