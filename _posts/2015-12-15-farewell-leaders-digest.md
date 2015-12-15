@@ -43,7 +43,9 @@ Cheers, Benjamin
 
 *I "managed" the newsletter and the planned links on a [Trello
 board][trello-board], which you might find interesting, if you're looking for
-interesting links.*
+interesting links.  
+Also, the archive of the sent-out newsletter issues are
+[here](/leaders-digest-archive/)*
 
 
 
