@@ -45,3 +45,10 @@ space](https://www.vaamo.de/).
 I'll share practices, which you can apply at your workplace no matter if you're
 a developer or manager, that will help you make your product a success, by
 shaping the things that actually matter.
+
+
+### Slides
+
+<script async class="speakerdeck-embed"
+data-id="e2821af80d3243dd8dfac45e36e4f5b7" data-ratio="1.77777777777778"
+src="//speakerdeck.com/assets/embed.js"></script>
