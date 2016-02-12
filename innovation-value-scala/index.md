@@ -18,10 +18,11 @@ A talk I present at the following conferences:
 
 - [XP Days
   Germany](http://www.xpdays.de/2015/sessions/101-innovation-value-mit-scala-nicht-wegen.html)
-  in Karlsruhe on 26-Nov-2015
+  in Karlsruhe on 26-Nov-2015 ([slides](#slides))
 - [Voxxed
   Days](http://voxxeddaysberlin2016.sched.org/event/5DEX/innovation-value-with-scala-not-because)
   in Berlin on 28-Jan-2016
+  ([slides](https://speakerdeck.com/benjamin/innovation-and-value-with-scala-not-because-at-voxxeddays-berlin-2016))
 - [Entwicklertag
   Frankfurt](https://entwicklertag.de/frankfurt/2016/innovation-value-mit-scala-nicht-wegen)
   in Frankfurt on 10-Mar-2016
@@ -47,6 +48,9 @@ touch on what innovation even means for us and also explicitly cover how our
 choice of programming language & technology contributes to our ability to
 innovate. 
 
+
+<a name="slides"></a>
+
 ### Slides
 
 <script async class="speakerdeck-embed"
@@ -58,5 +62,8 @@ src="//speakerdeck.com/assets/embed.js"></script>
 
 - [Vaamo's technology
   choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html)
+- My follow-up talk ["You're doing it wrong"](/youre-doing-it-wrong/), where I
+  talk less about Scala and more about what matters if technology is
+  unimportant.
 
 
