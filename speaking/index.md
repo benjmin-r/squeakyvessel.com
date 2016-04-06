@@ -12,6 +12,27 @@ The following is a list of talks I gave at conferences and/or usergroups.
 If you'd like me to speak about the below or other topics, you can [contact
 me](/contact/)
 
+## [5 Years of Software Craftsmanship](/5-years-of-software-craftsmanship/)
+
+... a Personal Take on How To Write Software Better.
+
+Practices, (Management) Frameworks and opinions on how software should be built
+are as numerous as there are people on this planet.
+
+A group of such opinions dubs itself Software Craftsmanship and calls for seeing
+a software development more as a craft instead of an engineering discipline.
+
+I count myself among the Software Craftsmanship community since 2011. Since then
+I've been supporting and spreading the ideas of Software Craftsmanship. Be it by
+organizing user groups and conferences, by giving talks or via the continuous
+efforts incorporating Software Craftsmanship ideas and practices into my daily
+work as developer and manager.
+
+In this talk I'll look back over the last five years, the journey I've made as a
+software developer and developer of teams. I'll share how my view on how to do
+software development better changed over this time.
+
+
 ## [You're doing it wrong ...](/youre-doing-it-wrong/)
 
 ... *Why your technology stack doesn't matter for your product's success!*
