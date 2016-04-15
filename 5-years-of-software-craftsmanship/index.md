@@ -42,3 +42,13 @@ software development better changed over this time.
     data-id="8e1ea4cc5f6a44db9aa9c2fcdcd653d1"
     data-ratio="1.77777777777778"
     src="//speakerdeck.com/assets/embed.js"></script>
+
+### Videos
+
+<iframe src="https://player.vimeo.com/video/162941944"
+    width="640"
+    height="360"
+    frameborder="0"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen></iframe>
