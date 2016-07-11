@@ -192,5 +192,4 @@ me](/contact/) or [send a pull request][github-source]
 [urbanairship-ladder]: https://github.com/urbanairship/techladder
 [intent-ladder]: https://intentmedia.com/the-intent-media-engineering-ladders/
 [chartbeat-ladder]: http://engineering.chartbeat.com/2015/06/05/engineering-ladders/
-[github-source]: missing://github.com/squeakyvessel/squeakyvessel.github.io/blob/master/_posts/2016-01-03-reading-in-2015.md
-
+[github-source]: https://github.com/squeakyvessel/squeakyvessel.github.io/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
