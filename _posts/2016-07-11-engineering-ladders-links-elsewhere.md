@@ -3,7 +3,7 @@ layout: post
 title: "Engineering Ladders Linklist"
 date: 2016-07-11
 categories:
-summary: ""
+summary: "In order to make it easier to get inspired by other companies' engineering ladders, I decided to put together a complete list of all published engineering ladders."
 ---
 
 Sometime in summer 2015, when preparing yearly feedbacks for [my team at
