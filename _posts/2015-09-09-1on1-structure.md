@@ -75,10 +75,11 @@ makes you feel productive?". The answers enabled profound changes and increased
 happiness across the team, and event after quite some time now still prove very
 helpful in designing processes.
 
-Jason Evanish has an [exhaustive list of questions for 1on1s][101-questions] and
-popforms even [provides a service][1on1-q-newsletter] to deliver a set of
-matching inspirational questions to to your and your team member's mailbox at a
-specified interval.
+Jason Evanish has an [exhaustive list of questions for 1on1s][101-questions], so
+does [Lara Hogan][larahogan-twitter] who has a great list of [Questions for your
+first 1on1][larahogan-questions]. Popforms even [provides a
+service][1on1-q-newsletter] to deliver a set of matching inspirational questions
+to to your and your team member's mailbox at a specified interval.
 
 
 <a name="listen"></a>
@@ -97,7 +98,7 @@ href="https://www.flickr.com/photos/streetmatt/">Matthew G</a> </div>
 
 
 You, as a manager, should spend most of the time listening to what your team
-memebe rhas to say. And by listening I mean to really try to understand what the
+member has to say. And by listening I mean to really try to understand what the
 other person is saying, by putting your own definitions and opinions into the
 background. 
 
@@ -245,5 +246,7 @@ sooner than you think.
 [1on1-q-newsletter]: https://www.safaribooksonline.com/blog/better-1-1s/
 [101-questions]: http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
 [1on1-purpose]: /2015/05/21/1on1-purpose-goals/
+[larahogan-questions]: http://larahogan.me/blog/first-one-on-one-questions/
+[larahogan-twitter]: https://twitter.com/lara_hogan
 [what-to-expect-employee]: https://getlighthouse.com/blog/one-on-ones-employee-know/
 [how-to-start-1on1s]: https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/
