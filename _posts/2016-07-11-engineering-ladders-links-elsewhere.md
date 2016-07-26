@@ -42,6 +42,7 @@ the roles' and positions' classifications mean for you and your organization.
 - [Urban Airship](#urbanairship-ladder)
 - [Intent Media](#intent-ladder)
 - [Chartbeat](#chartbeat-ladder)
+- [Spotify](#spotify-ladder)
 - [Charles Krempeaux](#charles-ladder)
 - [Fog Creek](#fogcreek-ladder)
 
@@ -139,6 +140,21 @@ doesn't trigger or even requires a discussion around it's assumptions and
 definitions.
 
 
+<a name="spotify-ladder"></a>
+
+#### [Spotify][spotify-ladder2]
+
+Spotify [documented their way][spotify-ladder1] to something like an engineering
+ladder, then wrote about [how the v1.0 looks like][spotify-ladder2] and lastly
+[shared their lessons learned and surprises][spotify-ladder3] while introducing
+the ladder.
+
+Very interesting and comprehensive read and bonus points for providing a very
+different approach to an engineering ladder, than most others in this list.
+
+[HT to Robert][robert-spotify-share] for sharing these links with me.
+
+
 <a name="charles-ladder"></a>
 
 #### [Charles Krempeaux][charles-ladder]
@@ -192,4 +208,8 @@ me](/contact/) or [send a pull request][github-source]
 [urbanairship-ladder]: https://github.com/urbanairship/techladder
 [intent-ladder]: https://intentmedia.com/the-intent-media-engineering-ladders/
 [chartbeat-ladder]: http://engineering.chartbeat.com/2015/06/05/engineering-ladders/
+[spotify-ladder1]: https://labs.spotify.com/2016/02/08/technical-career-path/
+[spotify-ladder2]: https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/
+[spotify-ladder3]: https://labs.spotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/
+[robert-spotify-share]: https://twitter.com/kventil/status/752747426176434176
 [github-source]: https://github.com/squeakyvessel/squeakyvessel.github.io/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
