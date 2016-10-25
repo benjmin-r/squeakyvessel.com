@@ -12,6 +12,24 @@ The following is a list of talks I gave at conferences and/or usergroups.
 If you'd like me to speak about the below or other topics, you can [contact
 me](/contact/)
 
+## [How do Agile & Scrum affect Quality - A Reality-Check](/agile-scrum-quality-reality-check/)
+
+The original question that lead to this talk was asked by [Marco
+Klemm](https://twitter.com/marcoklemm), initiator and moderator of [Agile Nacht
+Stuttgart](http://www.mitblick.de/agile-nacht-stuttgart). He asked
+(paraphrased) "do Agile & Scrum really hold their promise of increasing
+a project's quality"?.
+
+In this short talk I present my personal opinion and the experience of my last
+years as [CTO of
+vaamo](http://codecraft.vaamo.de/2015/04/29/introducing-myself-benjamin.html)
+argue, that while it's possible to employ practices such as Agile, Scrum
+& Software Craftsmanship to increase the quality of software projects (for
+varying degrees of quality), the actually important factors and the biggest
+leverage to increase quality and success of projects, are the involved humans
+and their way of interacting with each other.
+
+
 ## [5 Years of Software Craftsmanship](/5-years-of-software-craftsmanship/)
 
 ... a Personal Take on How To Write Software Better.
