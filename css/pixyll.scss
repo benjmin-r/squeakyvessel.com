@@ -7,3 +7,28 @@
 @import "basscss";
 @import "main";
 @import "solarized-dark";
+
+body {
+  overflow-x: hidden;
+}
+
+#ribbon {
+  right: -50px;
+  height: 30px;
+  top: 35px;
+  position: absolute;
+  text-decoration: none;
+  width: 200px;
+  -moz-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  span {
+    background: #0096cc;
+    color: white;
+    left: 0;
+    padding: 5px 0;
+    position: absolute;
+    text-align: center;
+    width: 200px;
+  }
+}
+
