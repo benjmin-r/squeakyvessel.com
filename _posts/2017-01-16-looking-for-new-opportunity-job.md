@@ -6,6 +6,22 @@ categories:
 summary: "It's been quite a ride, the last four years, being a startup's CTO. Then again, after such a long time (long for me) I feel it's time to do something different. So: I'm open for new roles and opportunities in the next months."
 ---
 
+TL;DR You can [hire me](#hireme).
+
+### Table of Contents
+
+- [What's next](#whatsnext)
+- [What I'm good at](#whatimgoodat)
+    - [Technology](#goodattech)
+    - [People](#goodatpeople)
+- [What's important to me](#whatsimportant)
+    - [People](#importanttomepeople)
+    - [Freedom to choose time & place to work](#importanttomefreedom)
+    - [Diversity](#importanttomediversity)
+- [What I would love to do](#whatiwouldlovetodo)
+    - [Building Teams](#buildingteams)
+    - [Tech Evangelism, Developer Relations](#techevangelism)
+
 It's been quite a ride, the last four years. 
 
 Almost exactly four years ago, on the 14th of January 2013, I met [Oliver
@@ -34,6 +50,9 @@ Then again, after such a long time (long for me) I feel it's time to do
 something different. And [so][so]: I'm open for new roles and opportunities in
 the next months.
 
+
+<a name="whatsnext"></a>
+
 ## What's next?
 
 Currently I'm quite open about where I am going next. Freelance or permanent
@@ -52,7 +71,11 @@ help you. Whether it's freelance work or a permanent position, we'll work out
 the details while talking.
 
 
+<a name="whatimgoodat"></a>
+
 ## What I'm good at
+
+<a name="goodattech"></a>
 
 ### Technology
 
@@ -61,14 +84,17 @@ a wide range of products, in different roles and several industries. I have
 strong opinions, that are weakly held, about how to do Frontend as well as
 Backend development, and also how to operate software in production.
 
-Through my more than 15 years experience in tech, I've aquired the ability to
+Through my more than 15 years experience in tech, I've acquired the ability to
 quickly and intuitively grasp a breadth of situations and can usually assess
 ways to move forward reliably.
+This served me especially well, in roles where I was at the intersection of tech
+and business, which roughly was the last eight years of my career.
 
 And just to be clear: Yes, I can code. And I still code. That is, if you're
 looking for a very experienced developer, who contributes code and goes beyond,
 then let's talk.
 
+<a name="goodatpeople"></a>
 
 ### People
 
@@ -85,8 +111,11 @@ together, facilitate discussions and help people reach meaningful conclusions
 and decisions.
 
 
+<a name="whatsimportant"></a>
 
 ## What's important to me
+
+<a name="importanttomepeople"></a>
 
 ### People
 
@@ -102,14 +131,18 @@ probably not a good fit. If it's not in your genuine interest to make the life's
 of those around you better, then we'll probably not work together for long.
 
 
+<a name="importanttomefreedom"></a>
+
 ### Freedom to choose time & place to work
 
 I'm a dad to two wonderful children, and a husband to an amazing teacher and
 school vice-principal. That means I got responsibilities, in addition to my
-professional work. In order to fulfill my duties and responsibilities
+professional work. In order to fulfil my duties and responsibilities
 adequately, I need a certain degree of freedom when it comes to where and when
 I do my work.  
 
+
+<a name="importanttomediversity"></a>
 
 ### Diversity
 
@@ -123,7 +156,11 @@ are willing to reflect their own behaviour critically, and how they might be
 part in excluding people. And in the end change that behaviour.
 
 
+<a name="whatiwouldlovetodo"></a>
+
 ## What I would love to do
+
+<a name="buildingteams"></a>
 
 ### Building Teams
 
@@ -142,7 +179,9 @@ imagine making this my main focus of my work at a company, that's growing its
 team and wants to ensure 
 
 
-### Evangelism, Developer Relations
+<a name="techevangelism"></a>
+
+### Tech Evangelism, Developer Relations
 
 Through my work at vaamo and my involvement in several communities, before and
 while being CTO, I've really enjoyed bringing people together. The actual team
