@@ -176,7 +176,7 @@ makes it the best place to work for the people on the team.
 
 I can imagine doing this in a supporting role, as a consultant. And I can
 imagine making this my main focus of my work at a company, that's growing its
-team and wants to ensure 
+team and wants to ensure the longevity of its measures.
 
 
 <a name="techevangelism"></a>
