@@ -121,7 +121,7 @@ and decisions.
 
 And: People.
 
-I believe, the one of the reasons I consider myself "good" at working with
+I believe, one of the reasons I consider myself "good" at working with
 people is, that the people I work with are important to me.
 
 That means, I'll patiently point it out, whenever you use the word "resource"
