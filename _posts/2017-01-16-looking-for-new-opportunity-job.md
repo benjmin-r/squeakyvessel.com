@@ -42,7 +42,7 @@ met and worked with. Together we've built a robust and scalable company and
 product, while never losing our kindness and respect for the fact that we're all
 humans. I'm incredibly proud to have helped shape a company and culture that
 keeps on delivering with a sense of calmness and humanity.  
-Looking back it was my first "real" management job, and I'm insanely lucky and
+Looking back it was my first "real" management job, and I'm incredibly lucky and
 happy that Thomas and Oliver trusted me and gave me the opportunity to be part
 of and shape that roller-coaster-ride that is a technology startup.
 
