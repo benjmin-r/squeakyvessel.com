@@ -141,6 +141,10 @@ professional work. In order to fulfil my duties and responsibilities
 adequately, I need a certain degree of freedom when it comes to where and when
 I do my work.  
 
+In addition to that: The centre of our life is Frankfurt, and I'm not willing to
+change this. So in order for us to work together you must either be in the
+Frankfurt/Rhein-Main region, or be ok with me working remotely most of the time.
+
 
 <a name="importanttomediversity"></a>
 
