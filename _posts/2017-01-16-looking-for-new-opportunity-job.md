@@ -207,7 +207,7 @@ a part of the wider tech community (or a specific subgroup).
 
 If you've made it here, you seem to be really interested in what I do. Come on,
 [reach out](/contact), write an email to
-[benjamin@squeakyvessel.com](benjamin@squeakyvessel.com) or ping
+[benjamin@squeakyvessel.com](mailto:benjamin@squeakyvessel.com) or ping
 [@benjamin](https://twitter.com/benjamin) on twitter.  
 Whether it's freelance work or a permanent position, we'll work out the details
 while talking.
