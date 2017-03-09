@@ -45,6 +45,7 @@ the roles' and positions' classifications mean for you and your organization.
 - [Spotify](#spotify-ladder)
 - [Charles Krempeaux](#charles-ladder)
 - [Fog Creek](#fogcreek-ladder)
+- [Cap Gemini](#capgemini-ladder)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
@@ -186,6 +187,17 @@ So just to be clear: Don't base your ladder this one, as there are better ways
 to arrive at compensation levels than "years of experience".
 
 
+<a name="capgemini-ladder"></a>
+
+#### [Cap Gemini][capgemini-ladder]
+
+> Last year, we identified a need to redefine the career framework for our
+> software engineers within the UK engineering teams and started work on a
+> Capgemini Software Engineering grade ladder. The grade ladder is our team’s
+> self-produced documentation to enable everyone, both inside and outside our
+> team, to understand our ethos and values and what’s expected of them.
+
+
 ### Missing a ladder?
 
 If you're aware of a ladder, that's shared somewhere, please [contact
@@ -213,3 +225,4 @@ me](/contact/) or [send a pull request][github-source]
 [spotify-ladder3]: https://labs.spotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/
 [robert-spotify-share]: https://twitter.com/kventil/status/752747426176434176
 [github-source]: https://github.com/squeakyvessel/squeakyvessel.github.io/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
+[capgemini-ladder]: https://capgemini.github.io/culture/our-grade-ladder/
