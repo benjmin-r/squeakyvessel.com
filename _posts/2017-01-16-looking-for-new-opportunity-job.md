@@ -6,7 +6,8 @@ categories:
 summary: "It's been quite a ride, the last four years, being a startup's CTO. Then again, after such a long time (long for me) I feel it's time to do something different. So: I'm open for new roles and opportunities in the next months."
 ---
 
-TL;DR You can [hire me](#hireme).
+Update: [I found a new role and wrote about
+it](/2017/03/06/my-new-chapter-new-job/)
 
 ### Table of Contents
 
