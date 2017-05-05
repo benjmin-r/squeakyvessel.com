@@ -6,25 +6,13 @@ description: "squeakyvessel - Contains your favourite tagline without a pun"
 baseurl:     "/"
 url:         "http://squeakyvessel.com"
 
-# Optional features
-animated:           false
 show_related_posts: false
 show_post_footers:  false
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
 
 # Social icons
 show_social_icons: true
 github_username: 'benjmin-r'
-stackoverflow_id:
 twitter_username: benjamin
-google_plus_id:
-linkedin_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
 
 # Build settings
 markdown: kramdown
@@ -36,3 +24,8 @@ sass:
   compressed: true
 
 gems: [jekyll-paginate]
+
+cto_coffee:
+  baseurl: /cto.coffee
+  title: cto.coffee
+  description: Talk
