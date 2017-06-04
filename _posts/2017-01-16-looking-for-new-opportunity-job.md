@@ -7,7 +7,7 @@ summary: "It's been quite a ride, the last four years, being a startup's CTO. Th
 ---
 
 Update: [I found a new role and wrote about
-it](/2017/03/06/my-new-chapter-new-job/)
+it]({% post_url 2017-03-09-my-new-chapter-new-job %})
 
 ### Table of Contents
 
