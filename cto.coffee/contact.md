@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Say Hello
-permalink: /contact/
+layout: cto-coffee-page
+title: Let's talk about CTO.coffee
+permalink: /cto.coffee/contact/
 ---
 
 <div class="py2">
@@ -9,8 +9,9 @@ permalink: /contact/
     <input type="text" name="_replyto" class="input mobile-block" placeholder="Email Address">
     <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="What would you like to say?"></textarea>
     <input type="hidden" name="_next" value="/thanks.html" />
-    <input type="hidden" name="_subject" value="New mail from squeakyvessel.com!" />
+    <input type="hidden" name="_subject" value="New submission!" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
   </form>
 </div>
+

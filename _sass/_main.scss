@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-header .logo {
-  display: block;
-  margin: 0 auto;
-}
-
 article img {
   display: block;
   margin: 0 auto;
@@ -102,13 +97,14 @@ body {
   border-bottom: 2px solid #444;
 }
 
-.site-nav a + a {
-  margin-left: 1em;
+nav {
+  text-align: left;
+  float: left;
 }
 
-.site-nav {
-  margin: 0;
-  padding: 0;
+nav a {
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 
 .site-header a:hover,
@@ -461,14 +457,6 @@ h6,
 
   .site-header .site-title {
     float: center;
-  }
-
-  .site-header .site-nav {
-    width: 100%;
-    float: left;
-    text-align: center;
-    margin-top: 0.666em;
-    margin-bottom: 1.333em;
   }
 
   .social-icons .left, .social-icons .right {

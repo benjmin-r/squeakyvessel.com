@@ -26,6 +26,6 @@ sass:
 gems: [jekyll-paginate]
 
 cto_coffee:
-  baseurl: /cto.coffee
+  baseurl: '/cto.coffee/'
   title: cto.coffee
-  description: Talk
+  description: "Let's talk about people & tech, the podcast for people who care about people."

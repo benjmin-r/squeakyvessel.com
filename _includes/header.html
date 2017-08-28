@@ -1,13 +1,23 @@
-<header class="site-header px2 px-responsive">
+<header class="site-header">
   <div class="mt2 wrap">
+      <style>
+        .site-header          { padding-left: 0.5em; padding-right: 0.5em; }
+        .site-header .measure { min-height: 180px; text-align: right; background: top right no-repeat url(/static/img/sv-logo_medium.png);}
+        .title                { font-size: 1.0em; float: right; margin-top: 180px; }
+
+        @media screen and (max-width: 48em) {
+          .title                { margin-top: 100px; }
+          .site-header .measure { min-height: 150px; background: top right no-repeat url(/static/img/sv-logo_small.png);}
+        }
+      </style>
     <div class="measure">
-      <a href="{{ site.baseurl }}">
-        <img src="{{ site.baseurl }}static/img/sv-logo_small.png" class="logo" alt="squeakyvessel logo">
-      </a>
-      <a href="{{ site.baseurl }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav right">
-        {% include navigation.html %}
+      <nav>
+        <a href="/about/">/About</a><br>
+        <a href="/projects/">/Projects</a><br>
+        <a href="/cto.coffee/">/CTO.coffee</a><br>
+        <a href="/contact/">/Contact</a>
       </nav>
+      <a href="/" class="title">{{ site.title }}</a>
       <div class="clearfix"></div>
     </div>
   </div>
