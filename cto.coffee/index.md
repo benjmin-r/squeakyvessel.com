@@ -14,7 +14,12 @@ have a chat.
 
 ## Episodes
 
+### Ep. 01 - How To Make Interviewing Better For All
+
 _soon to be published_
+
+For this episode [Raimo](https://twitter.com/rradczewski) and myself will talk about how to make the process of
+interviewing people for your team, and the interview itself better for all involved.
 
 [benjamin]: http://squeakyvessel.com/about/
 [contact]:  {{ site.cto_coffee.baseurl }}contact/
