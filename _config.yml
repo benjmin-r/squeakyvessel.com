@@ -24,8 +24,3 @@ sass:
   compressed: true
 
 gems: [jekyll-paginate]
-
-cto_coffee:
-  baseurl: '/cto.coffee/'
-  title: cto.coffee
-  description: "Let's talk about people & tech, the podcast for people who care about people."

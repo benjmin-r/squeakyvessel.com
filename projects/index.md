@@ -7,13 +7,18 @@ tags: []
 author: Benjamin Reittzammer
 ---
 
+### cto.coffee
+
+I'm publishing the <a href="https://cto.coffee/">CTO.coffee</a> podcast, where I chat and talk about the human side of
+technology. With other people, of course.
+
+
 ### Speaking
 
 I've been at various conferences over the last years and gave talks at some of
 them.  
 And there's a [list of all my talks](/speaking/), with slides where it makes
 sense.
-
 
 ### Leader's Digest Archive
 

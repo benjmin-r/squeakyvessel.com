@@ -53,7 +53,7 @@ great guides and cards._{:.photo-attribute}
 
 Oh, want one of these brew guides? [Ping me][benjamin] and I'll send you some.
 They actually gave me a huge stack and not only one of them.  
-_And did you notice that [cto.coffee](http://cto.coffee) at the bottom?_
+_And did you notice that [cto.coffee](https://cto.coffee) at the bottom?_
 
 
 ## Why Crispy Mountain?
