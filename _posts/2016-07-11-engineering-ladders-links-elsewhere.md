@@ -6,6 +6,18 @@ categories:
 summary: "In order to make it easier to get inspired by other companies' engineering ladders, I decided to put together a complete list of all published engineering ladders."
 ---
 
+ADD TO LINKLIST
+
+https://rands-leadership.slack.com/archives/C0KR3P5Q8/p1492112915523492
+https://rands-leadership.slack.com/files/rands/F3WCGS7CY/draft-_management_career_path_v.8_-_via_rands.pdf
+
+Brad Fults
+https://s3-us-west-1.amazonaws.com/eng-management-docs/Leveling-Matrix.htm
+https://bradfults.com/the-technical-track-34bb550f623a
+
+
+
+
 Sometime in summer 2015, when preparing yearly feedbacks for [my team at
 vaamo][codecraft], I started formulating our team's (engineering) ladder. Back
 then the concept of a ladder, the act of spelling out what the requirements and
