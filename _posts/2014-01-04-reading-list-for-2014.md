@@ -10,7 +10,7 @@ summary: "In where I list the books I plan to read in 2014"
 
 *This list was initially posted as a
 [tweet](https://twitter.com/benjamin/status/419559048024195072) and
-[gist](https://gist.github.com/nureineide/8259863). I moved it here, to
+[gist](https://gist.github.com/{{ site.github_username }}/8259863). I moved it here, to
 reference it easier*
 
 The following is the list of books I plan to read in 2014.

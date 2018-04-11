@@ -224,5 +224,5 @@ me](/contact/) or [send a pull request][github-source]
 [spotify-ladder2]: https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/
 [spotify-ladder3]: https://labs.spotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/
 [robert-spotify-share]: https://twitter.com/kventil/status/752747426176434176
-[github-source]: https://github.com/squeakyvessel/squeakyvessel.github.io/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
+[github-source]: https://github.com/benjmin-r/squeakyvessel.com/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
 [capgemini-ladder]: https://capgemini.github.io/culture/our-grade-ladder/
