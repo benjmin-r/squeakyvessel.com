@@ -47,6 +47,7 @@ the roles' and positions' classifications mean for you and your organization.
 - [Fog Creek](#fogcreek-ladder)
 - [Cap Gemini](#capgemini-ladder)
 - [Patreon](#patreon-ladder)
+- [Songkick](#songkick-ladder)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
@@ -198,11 +199,24 @@ to arrive at compensation levels than "years of experience".
 > self-produced documentation to enable everyone, both inside and outside our
 > team, to understand our ethos and values and what’s expected of them.
 
+
 <a name="patreon-ladder"></a>
 
 #### [Patreon][patreon-ladder]
 
-> Today we are excited to share Patreon’s revamped Engineering Leveling Guide. In Patreon’s early years, we had little in the way of objective criteria for leveling engineers. We’ve come a long way since then, and our engineering organization is much stronger and fairer for it. We want to show you how we define levels now and what it’s like to work at Patreon.
+> Today we are excited to share Patreon’s revamped Engineering Leveling Guide. In Patreon’s early years, we had little
+> in the way of objective criteria for leveling engineers. We’ve come a long way since then, and our engineering
+> organization is much stronger and fairer for it. We want to show you how we define levels now and what it’s like to
+> work at Patreon.
+
+
+<a name="songkick-ladder"></a>
+
+#### [Songkick][songkick-ladder-blogpost]
+
+[Songkick's Career Growth Framework][songkick-ladder] is very detailed and beautifully designed. It's a great resource
+and inspiration to anyone looking to structure career growth at a team. As many other ladders out there already it
+describes a management and a technical career path.
 
 
 ### Missing a ladder?
@@ -234,3 +248,5 @@ me](/contact/) or [send a pull request][github-source]
 [github-source]: https://github.com/benjmin-r/squeakyvessel.com/blob/master/_posts/2016-07-11-engineering-ladders-links-elsewhere.md
 [capgemini-ladder]: https://capgemini.github.io/culture/our-grade-ladder/
 [patreon-ladder]: https://levels.patreon.com
+[songkick-ladder-blogpost]: https://blog.songkick.com/building-a-growth-framework-2464435e9e46
+[songkick-ladder]: https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf
