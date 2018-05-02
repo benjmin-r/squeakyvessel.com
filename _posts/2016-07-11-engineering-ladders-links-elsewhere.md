@@ -209,12 +209,26 @@ describes a management and a technical career path.
 
 #### [Medium][medium-ladder-blogpost]
 
-Medium's Engineering Growth Framework documents in detail the growth framework of Medium, including tracks, assessing progress, and an appeals process. The frameworks aims to help engineers answer the question “How do I progress?”. Medium offers 16 different tracks that each are organized into the categories building, executing, supporting, and strengthening.
+Medium's ladder is very comprehensive and therefore more than merits the title "Growth Framework". The frameworks aims
+to help engineers answer the question “How do I progress?”. Medium offers 16 different tracks that each are organized
+into the categories building, executing, supporting, and strengthening.
+
+The framework includes a description of tracks and the process how people at Medium assess their progress. A notable
+distinction from other ladders is the "appeals process".  
+The Growth Framework describes it with the following words:
+> Given that the framework is somewhat subjective, we accept that even reasonable people acting in good faith can make
+> mistakes or fail to appropriately value work. The appeals process outlines the way in which engineers can challenge a
+> decision they consider to be inaccurate.
+
 
 ### Missing a ladder?
 
 If you're aware of a ladder, that's shared somewhere, please [contact
-me](/contact/) or [send a pull request][github-source]
+me](/contact/) or [send a pull request][github-source].
+
+Lots of 😍 to the following contributors far:
+- [Uli Stroetz](https://github.com/benjmin-r/squeakyvessel.com/pull/2)
+- [Sven Kloppenburg](https://github.com/benjmin-r/squeakyvessel.com/pull/1)
 
 [codecraft]: http://codecraft.vaamo.de
 [rtr]: https://www.renttherunway.com/
