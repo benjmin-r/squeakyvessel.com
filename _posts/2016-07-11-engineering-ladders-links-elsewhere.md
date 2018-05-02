@@ -32,26 +32,25 @@ When using any of the below ladders as a starting point, be aware, that you'll
 need quite a bit of effort to adapt and develop your own understanding of what
 the roles' and positions' classifications mean for you and your organization.
 
-
 ### Ladders
 
-- [Rent the Runway](#rtr-ladder)
-- [Artsy](#artsy-ladder)
-- [Travis CI](#travis-ladder)
-- [Kickstarter](#kickstarter-ladder)
-- [Urban Airship](#urbanairship-ladder)
-- [Intent Media](#intent-ladder)
-- [Chartbeat](#chartbeat-ladder)
-- [Spotify](#spotify-ladder)
-- [Charles Krempeaux](#charles-ladder)
-- [Fog Creek](#fogcreek-ladder)
-- [Cap Gemini](#capgemini-ladder)
-- [Patreon](#patreon-ladder)
-- [Songkick](#songkick-ladder)
+* [Rent the Runway](#rtr-ladder)
+* [Artsy](#artsy-ladder)
+* [Travis CI](#travis-ladder)
+* [Kickstarter](#kickstarter-ladder)
+* [Urban Airship](#urbanairship-ladder)
+* [Intent Media](#intent-ladder)
+* [Chartbeat](#chartbeat-ladder)
+* [Spotify](#spotify-ladder)
+* [Charles Krempeaux](#charles-ladder)
+* [Fog Creek](#fogcreek-ladder)
+* [Cap Gemini](#capgemini-ladder)
+* [Patreon](#patreon-ladder)
+* [Songkick](#songkick-ladder)
+* [Medium](#medium-ladder)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
-
 
 <a name="rtr-ladder"></a>
 
@@ -64,7 +63,6 @@ I find it very well structured, approachable and it reveals deep thinking behind
 it. I especially liked the concept of the four pillars _"Technical Skill"_,
 _"Get Stuff Done"_, _"Impact"_, _"Communication & Leadership"_.
 
-
 <a name="artsy-ladder"></a>
 
 #### [Artsy][artsy-ladder]
@@ -72,7 +70,6 @@ _"Get Stuff Done"_, _"Impact"_, _"Communication & Leadership"_.
 The ladder from Arty's team, as shared by their [CTO Daniel
 Doubrovkine][dblockdotorg] has a much simpler structure than the RTR ladder,
 even though it says it's much inspired by it.
-
 
 <a name="travis-ladder"></a>
 
@@ -86,7 +83,6 @@ While the ladder itself is not overly prominent in the slidedeck and video, the
 reasoning and story behind the compensation framework, which is based on the
 ladder, is very interesting.
 
-
 <a name="kickstarter-ladder"></a>
 
 #### [Kickstarter][kickstarter-ladder]
@@ -96,7 +92,6 @@ paths for Technical and Data people as well as People Management roles.
 
 Each role and position, up to the CTO, is described in helpful and concise
 prose.
-
 
 <a name="urbanairship-ladder"></a>
 
@@ -113,7 +108,6 @@ Leadership"_ and _"Customer Success"_. Notice the absence of anything
 Management positions are described using three pillars _"Scope and Impact"_,
 _"Team Development"_ and _"Customer Success"_.
 
-
 <a name="intent-ladder"></a>
 
 #### [Intent Media][intent-ladder]
@@ -125,7 +119,6 @@ It provides a lot of context about how engineering in general is structured at
 Intent Media and all positions are described in a concise yet extensive prose.
 It's very well structured, offers a lot of inspiration and conveys deep thinking
 that lead towards the ladder.
-
 
 <a name="chartbeat-ladder"></a>
 
@@ -142,7 +135,6 @@ necessarily a bad thing, as it's nearly impossible to formulate a ladder that
 doesn't trigger or even requires a discussion around it's assumptions and
 definitions.
 
-
 <a name="spotify-ladder"></a>
 
 #### [Spotify][spotify-ladder2]
@@ -157,7 +149,6 @@ different approach to an engineering ladder, than most others in this list.
 
 [HT to Robert][robert-spotify-share] for sharing these links with me.
 
-
 <a name="charles-ladder"></a>
 
 #### [Charles Krempeaux][charles-ladder]
@@ -169,7 +160,6 @@ It's extra helpful, as it contains specific reasoning in which circumstances
 titles are helpful or maybe even necessary, and why it's a bad idea to have
 a ladder where the top technical level is something like "Senior Software
 Engineer".
-
 
 <a name="fogcreek-ladder"></a>
 
@@ -188,7 +178,6 @@ like.
 So just to be clear: Don't base your ladder this one, as there are better ways
 to arrive at compensation levels than "years of experience".
 
-
 <a name="capgemini-ladder"></a>
 
 #### [Cap Gemini][capgemini-ladder]
@@ -199,7 +188,6 @@ to arrive at compensation levels than "years of experience".
 > self-produced documentation to enable everyone, both inside and outside our
 > team, to understand our ethos and values and what’s expected of them.
 
-
 <a name="patreon-ladder"></a>
 
 #### [Patreon][patreon-ladder]
@@ -209,7 +197,6 @@ to arrive at compensation levels than "years of experience".
 > organization is much stronger and fairer for it. We want to show you how we define levels now and what it’s like to
 > work at Patreon.
 
-
 <a name="songkick-ladder"></a>
 
 #### [Songkick][songkick-ladder-blogpost]
@@ -218,6 +205,11 @@ to arrive at compensation levels than "years of experience".
 and inspiration to anyone looking to structure career growth at a team. As many other ladders out there already it
 describes a management and a technical career path.
 
+<a name="medium-ladder"></a>
+
+#### [Medium][medium-ladder-blogpost]
+
+Medium's Engineering Growth Framework documents in detail the growth framework of Medium, including tracks, assessing progress, and an appeals process. The frameworks aims to help engineers answer the question “How do I progress?”. Medium offers 16 different tracks that each are organized into the categories building, executing, supporting, and strengthening.
 
 ### Missing a ladder?
 
@@ -250,3 +242,4 @@ me](/contact/) or [send a pull request][github-source]
 [patreon-ladder]: https://levels.patreon.com
 [songkick-ladder-blogpost]: https://blog.songkick.com/building-a-growth-framework-2464435e9e46
 [songkick-ladder]: https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf
+[medium-ladder-blogpost]: https://medium.com/s/engineering-growth-framework
