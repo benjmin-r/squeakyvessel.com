@@ -229,33 +229,32 @@ tracks for many of the roles.
 
 #### [Tes Global][tes-global-talk]
 
-Tes Global designed their engineering ladder differently than most of the others.
-Rather than using career levels, they use a modified Dreyfus model to show skill 
-progression within a set of high-level categories. Career levels can then be laid over 
-this map to provide more flexibility than most other engineering ladders.
-The downside to this approach is it is more complex than others and requires tooling support to
-get the most value and does not scale past 10 - 15 engineers without tooling.
-You can look at the [original map][tes-global-original-map] and the [evolved map][tes-global-evolved-map] to get an idea
-of how this worked in practice. The evolved map improves scalability by adding acceptance criteria to each skill. 
-There is a [talk by David Morgantini](tes-global-talk) that explains in greater detail how this 
-engineering ladder was used at Tes to help drive growth and retention.
+Tes Global designed their engineering ladder differently than most of the others. Rather than using career levels,
+they use a modified Dreyfus model to show skill progression within a set of high-level categories. Career levels
+can then be laid over this map to provide more flexibility than most other engineering ladders. The 
+[original][tes-global-original-map] and the [evolved map][tes-global-evolved-map], which has acceptance criteria
+for each skill, provide an idea of how this worked in practice. There is also a [talk by David Morgantini][tes-global-talk]
+that explains in greater detail how this engineering ladder was used at Tes.
+
+The downside to this approach is it is more complex than others and requires tooling support and does not scale
+past 10 - 15 engineers without such. Tes implemented and [open-sourced a tool][tes-global-skills-matrix] to manage
+this kind of ladder.
+
 
 <a name="skillsmap"></a>
 
 #### [SkillsMap.io][skillsmap-io]
 
-SkillsMap.io is not a engineering ladder itself, but rather, a tool that allows teams to build, 
-and get maximum value from them. It was born out of the engineering ladder created at Tes Global,
-and is a fork of the [open source tool](tes-global-skills-matrix) they released in late 2017.
+SkillsMap.io is not a engineering ladder itself, but rather, a tool that allows teams to build their own engineering
+ladder. It emerged out of the engineering ladder created at [Tes Global](#tes-global-ladder), and is a fork of the
+[open source tool][tes-global-skills-matrix] they released in late 2017.
+
 The tool provides: 
 * a structured and scalable evaluation & review process
 * the ability to create custom skills maps or engineering ladders
 * skill gap reporting & insights
 * the ability to evaluate candidates prior to interview
 
-It is flexible enough to support most of the other engineering ladders listed on this
-page. The SkillsMap team also offer a consultancy service to help reduce the effort required to build an 
-engineering ladder that is meaningful for you and your organization.
 
 ### Missing a ladder?
 
