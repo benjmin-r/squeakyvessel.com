@@ -50,6 +50,7 @@ the roles' and positions' classifications mean for you and your organization.
 * [GOV.UK](#govuk-ladder)
 * [Tes Global](#tes-global-ladder)
 * [SkillsMap.io](#skillsmap)
+* [Buffer](#buffer-ladder)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
@@ -256,6 +257,15 @@ The tool provides:
 * the ability to evaluate candidates prior to interview
 
 
+<a name="buffer-ladder"></a>
+
+#### [Buffer][buffer-ladder]
+
+Buffer's ladder (published early 2017) is not a ladder. Instead Buffer chose to use "scope of influence, together with a
+description of _'how work is conducted'_, [as a proxy] for technical skill.".  
+I think it's a very interesting and great step forward, from the earlier, more rigid ladders.
+
+
 ### Missing a ladder?
 
 If you're aware of a ladder, that's shared somewhere, please [contact
@@ -298,3 +308,4 @@ Lots of 😍 to the following contributors so far:
 [tes-global-evolved-map]: https://docs.google.com/spreadsheets/d/1OUO5s45mD-ReRPtJp2V65mclMHpUb7iMIuF6tA9f1xI/edit?usp=sharing
 [tes-global-talk]: https://www.youtube.com/watch?v=v6wAlxrhC80
 [tes-global-skills-matrix]: https://github.com/tes/app-skills-matrix
+[buffer-ladder]: https://open.buffer.com/engineering-career-framework/
