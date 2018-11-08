@@ -51,6 +51,9 @@ the roles' and positions' classifications mean for you and your organization.
 * [Tes Global](#tes-global-ladder)
 * [SkillsMap.io](#skillsmap)
 * [Buffer](#buffer-ladder)
+* [Meetup](#meetup-ladder)
+* [Soundcloud](#soundcloud-ladder)
+* [progression.fyi](#progression-fyi)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
@@ -250,11 +253,14 @@ SkillsMap.io is not a engineering ladder itself, but rather, a tool that allows 
 ladder. It emerged out of the engineering ladder created at [Tes Global](#tes-global-ladder), and is a fork of the
 [open source tool][tes-global-skills-matrix] they released in late 2017.
 
-The tool provides: 
+The tool provides:
 * a structured and scalable evaluation & review process
 * the ability to create custom skills maps or engineering ladders
 * skill gap reporting & insights
 * the ability to evaluate candidates prior to interview
+
+In Aug 2018 I talked to [David Morgantini][@dmorgantini], the founder of SkillsMap.io, about career growth
+frameworks and engineering ladders on [episode 04 of the cto.coffee podcast][cto-coffee-ep04].
 
 
 <a name="buffer-ladder"></a>
@@ -264,6 +270,34 @@ The tool provides:
 Buffer's ladder (published early 2017) is not a ladder. Instead Buffer chose to use "scope of influence, together with a
 description of _'how work is conducted'_, [as a proxy] for technical skill.".  
 I think it's a very interesting and great step forward, from the earlier, more rigid ladders.
+
+
+<a name="meetup-ladder"></a>
+
+#### [Meetup][meetup-ladder]
+
+Meetup shares their cross-company set of rules and expectations for Makers and Managers within the company. It's very
+comprehensive and knowing that [Lara Hogan][lara-hogan] worked with Meetup on it, let's you know, that it's well thought
+out and a great resource.
+
+
+<a name="soundcloud-ladder"></a>
+
+#### [Soundcloud][soundcloud-ladder]
+
+Soundcloud released their engineering ladder beginning of 2018, and even though they stick to the now almost classic
+model of several dimensions (skills and behaviours), the description reveal that they put a lot of effort and thought
+into it.
+
+
+<a name="progression-fyi"></a>
+
+#### [progression.fyi][progression-fyi]
+
+Progression.fyi is a project by [Jonny Burch][jonny-burch] and is not a ladder or progression framework in itself, but
+rather a nicely-tagged and better navigatable collection of such. Due to Jonny being a designer, the collection features
+a lot of non-engineer ladders, which may give a little extra inspiration and ideas to those who seek it.  
+Plus it lists even more ladders/frameworks than this page.
 
 
 ### Missing a ladder?
@@ -308,4 +342,11 @@ Lots of 😍 to the following contributors so far:
 [tes-global-evolved-map]: https://docs.google.com/spreadsheets/d/1OUO5s45mD-ReRPtJp2V65mclMHpUb7iMIuF6tA9f1xI/edit?usp=sharing
 [tes-global-talk]: https://www.youtube.com/watch?v=v6wAlxrhC80
 [tes-global-skills-matrix]: https://github.com/tes/app-skills-matrix
+[cto-coffee-ep04]: https://cto.coffee/episodes/04-career-growth-frameworks-with-david-morgantini
+[@dmorgantini]: https://twitter.com/dmorgantini
 [buffer-ladder]: https://open.buffer.com/engineering-career-framework/
+[meetup-ladder]: https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e
+[lara-hogan]: https://larahogan.me/
+[soundcloud-ladder]: https://developers.soundcloud.com/blog/engineering-levels
+[progression-fyi]: http://www.progression.fyi/
+[jonny-burch]: https://www.jonnyburch.com/about/
