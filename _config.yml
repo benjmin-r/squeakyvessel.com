@@ -4,7 +4,7 @@ email:       benjamin@squeakyvessel.com
 author:      Benjamin Reitzammer
 description: "squeakyvessel - Contains your favourite tagline without a pun"
 baseurl:     "/"
-url:         "http://squeakyvessel.com"
+url:         "https://squeakyvessel.com"
 
 show_related_posts: false
 show_post_footers:  false

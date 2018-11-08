@@ -322,8 +322,8 @@ Lots of 😍 to the following contributors so far:
 [kickstarter-ladder]: https://www.kickstarter.com/backing-and-hacking/the-kickstarter-engineering-and-data-team-ladder
 [kartar]: https://twitter.com/kartar
 [charles-ladder]: http://changelog.ca/log/2013/08/09/software_engineer_title_ladder
-[reiver]: http://twitter.com/reiver
-[fogcreek-ladder]: http://joelonsoftware.com/articles/ladder.html
+[reiver]: https://twitter.com/reiver
+[fogcreek-ladder]: https://www.joelonsoftware.com/articles/ladder.html
 [urbanairship-ladder]: https://github.com/urbanairship/techladder
 [intent-ladder]: https://intentmedia.com/the-intent-media-engineering-ladders/
 [spotify-ladder1]: https://labs.spotify.com/2016/02/08/technical-career-path/
