@@ -68,23 +68,7 @@ so-called [y-adapter][y-adapter], so both of you can has their own headphones.
 
 ### Register
 
-<small>
-_Your Email and Name will be sent to and stored by MailChimp, a US-based company. Please read their [privacy
-policy](https://mailchimp.com/legal/privacy/) to understand how the data you submit is processed and stored. I will use
-and process your data only in the context of this workshop, to send you information about the workshop. After the
-workshop, the data you submitted will be deleted._
-</small>
-
-<!-- Begin MailChimp Signup Form -->
-<form action="https://squeakyvessel.us5.list-manage.com/subscribe/post?u=7f17eb9e4c8af5d4e093e89ff&amp;id=8dba762f87" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-stacked form-light" target="_blank" novalidate>
-    <input type="email" value="" name="EMAIL" class="required email input mobile-block" id="mce-EMAIL"  placeholder="Email Address">
-    <input type="text" value="" name="NAME" class="required input mobile-block" id="mce-NAME" placeholder="Name - how should I address you?">
-
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7f17eb9e4c8af5d4e093e89ff_8dba762f87" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-</form>
-<!--End mc_embed_signup-->
-
+_The event is already over and you can't register anymore._
 
 
 [socrates]: http://www.socrates-conference.de
