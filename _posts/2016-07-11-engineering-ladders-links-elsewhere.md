@@ -54,6 +54,7 @@ the roles' and positions' classifications mean for you and your organization.
 * [Meetup](#meetup-ladder)
 * [Soundcloud](#soundcloud-ladder)
 * [progression.fyi](#progression-fyi)
+* [CircleCI](#circleci)
 
 If you're aware of a ladder, that's shared somewhere but not on this list,
 please [contact me](/contact/) or [send a pull request][github-source].
@@ -299,6 +300,11 @@ rather a nicely-tagged and better navigatable collection of such. Due to Jonny b
 a lot of non-engineer ladders, which may give a little extra inspiration and ideas to those who seek it.  
 Plus it lists even more ladders/frameworks than this page.
 
+#### [CircleCI][circleci-matrix]
+
+CircleCI released their engineering competency matrix at the end of 2018. 
+
+<a name="circleci"></a>
 
 ### Missing a ladder?
 
@@ -350,3 +356,4 @@ Lots of 😍 to the following contributors so far:
 [soundcloud-ladder]: https://developers.soundcloud.com/blog/engineering-levels
 [progression-fyi]: http://www.progression.fyi/
 [jonny-burch]: https://www.jonnyburch.com/about/
+[circleci-matrix]: https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/
