@@ -315,6 +315,7 @@ Lots of 😍 to the following contributors so far:
 - [Uli Stroetz](https://github.com/benjmin-r/squeakyvessel.com/pull/2)
 - [Sven Kloppenburg](https://github.com/benjmin-r/squeakyvessel.com/pull/1)
 - [David Morgantini](https://github.com/benjmin-r/squeakyvessel.com/pull/3)
+- [Lena Reinhard](https://github.com/benjmin-r/squeakyvessel.com/pull/4)
 
 [codecraft]: http://codecraft.vaamo.de
 [rtr]: https://www.renttherunway.com/
