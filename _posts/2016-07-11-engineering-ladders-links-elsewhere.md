@@ -49,6 +49,7 @@ develop your own understanding of what the roles' and positions' classifications
 * [Soundcloud](#soundcloud-ladder)
 * [progression.fyi](#progression-fyi)
 * [CircleCI](#circleci)
+* [Square](#square)
 
 If you're aware of a ladder, that's shared somewhere but not on this list, please [contact me](/contact/) or [send a
 pull request][github-source].
@@ -277,11 +278,22 @@ rather a nicely-tagged and better navigatable collection of such. Due to Jonny b
 a lot of non-engineer ladders, which may give a little extra inspiration and ideas to those who seek it.  
 Plus it lists even more ladders/frameworks than this page.
 
-#### [CircleCI][circleci-matrix]
-
-CircleCI released their engineering competency matrix at the end of 2018. 
 
 <a name="circleci"></a>
+
+#### [CircleCI][circleci-matrix]
+
+CircleCI released their engineering competency matrix at the end of 2018.
+
+
+<a name="square"></a>
+
+#### [Square][square-matrix]
+
+Square released their engineering career ladder in August 2019. It features separate tracks for individual contributors
+and managers. A noteworthy detail in their ladder is that they label some of their criteria and responsibilities as
+shared between managers and ICs.
+
 
 ### Missing a ladder?
 
@@ -335,3 +347,4 @@ Lots of 😍 to the following contributors so far:
 [progression-fyi]: http://www.progression.fyi/
 [jonny-burch]: https://www.jonnyburch.com/about/
 [circleci-matrix]: https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/
+[square-matrix]: https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/
