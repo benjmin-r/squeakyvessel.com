@@ -163,7 +163,7 @@ Later that year, I also facilitated a Architectural Kata session at the
 [XPDays DE conference](http://www.xpdays.de/twiki/bin/view/XPDays2012).
 
 
-## [Soziale Netze Integrieren](http://static.squeakyvessel.com/soziale-netze-integrieren/)
+## Soziale Netze Integrieren
 
 German talk, held at
 [web-devcon](http://www.web-developer-conference.de/History/Programm-2011/Soziale-Netze-integrieren)
