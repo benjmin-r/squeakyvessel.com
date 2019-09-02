@@ -290,7 +290,7 @@ CircleCI released their engineering competency matrix at the end of 2018.
 
 #### [Square][square-matrix]
 
-Square released their engineering career ladder in August 2019. It features separate tracks for individual contributors
+Square released their engineering career ladder in July 2019. It features separate tracks for individual contributors
 and managers. A noteworthy detail in their ladder is that they label some of their criteria and responsibilities as
 shared between managers and ICs.
 
