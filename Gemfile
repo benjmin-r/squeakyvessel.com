@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.5.1'
+ruby '2.6.2'
 
-gem 'jekyll'
-gem 'jekyll-paginate'
+gem 'jekyll', '>= 4.0'
+gem 'jekyll-paginate', '>= 1.1.0'
