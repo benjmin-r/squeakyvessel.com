@@ -18,10 +18,11 @@ A talk I present at the following conferences:
 
 ### Abstract
 
-When I get to talk to people about the [product I'm working
-on](https://mein.vaamo.de/), the first thing many if not most of them ask me
-about is the technology stack we use. Often followed by our process for making
-the decision for that specific stack in the first place.
+When I get to talk to people about the product I'm working
+on (ed. the fintech startup vaamo, building a robo advisor), the first thing 
+many if not most of them ask me about is the technology stack we use. Often 
+followed by our process for makingthe decision for that specific stack in the
+first place.
 
 While a little more than two years ago, when we were making that decision, I
 very likely would have asked the same things, after a while I began to think,
@@ -39,8 +40,7 @@ team, it's how we conduct our work, how we arrive at the principles that guide
 and shape a team's work.
 
 In this talk I'll share the story of how my team and myself did these things at
-our current product, a [startup in the financial technology
-space](https://www.vaamo.de/).
+our current product, a startup in the financial technology space.
 
 I'll share practices, which you can apply at your workplace no matter if you're
 a developer or manager, that will help you make your product a success, by
