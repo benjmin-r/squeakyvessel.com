@@ -21,9 +21,7 @@ Stuttgart](http://www.mitblick.de/agile-nacht-stuttgart). He asked
 a project's quality"?.
 
 In this short talk I present my personal opinion and the experience of my last
-years as [CTO of
-vaamo](http://codecraft.vaamo.de/2015/04/29/introducing-myself-benjamin.html)
-argue, that while it's possible to employ practices such as Agile, Scrum
+years as CTO of vaamo argue, that while it's possible to employ practices such as Agile, Scrum
 & Software Craftsmanship to increase the quality of software projects (for
 varying degrees of quality), the actually important factors and the biggest
 leverage to increase quality and success of projects, are the involved humans
@@ -74,11 +72,10 @@ I present the talk at the following conferences:
 
 ## [Innovation & Value with Scala, not because](/innovation-value-scala/)
 
-The talk first covers how we made our [technology
-choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html) in favor
-of Scala. It continues to take a look at the wanted and unwanted consequences of
-this choice and closes with my thoughts on how, if at all, it enabled the team
-to deliver innovation and value to our business.
+The talk first covers how we at vaamo made our technology
+choice in favor of Scala. It continues to take a look at the wanted and unwanted
+consequences of this choice and closes with my thoughts on how, if at all, it
+enabled the team to deliver innovation and value to our business.
 
 I present the talk at the following conferences:
 
@@ -112,7 +109,7 @@ A talk I gave in the Ignite format on 24th October 2014 at the [Berlin DevOps
 Days](http://www.devopsdays.org/events/2014-berlin/).
 
 In this talk I describe how we share secrets inside the
-[vaamo](http://codecraft.vaamo.de) development & operations team, and how we
+vaamo development & operations team, and how we
 integrate them into our Chef-based Configuration Management.
 
 
