@@ -19,7 +19,7 @@ nice word][rands-vent]) and the feeling of being heard. It took me some time to
 realize I wasn't using that private time with my team members to it's fullest
 potential.
 
-Since I started working [at my current role][codecraft-self-intro] two years
+Since I started working at my current role (ed. CTO of fintech startup vaamo) two years
 ago, I started to give the purpose and structure of those private meetings more
 thought. You could say, I started doing 1on1s according to a currently
 predominant definition[^1].
@@ -125,7 +125,6 @@ doing 1on1s.
 
 
 [rands-vent]: http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
-[codecraft-self-intro]: http://codecraft.vaamo.de/2015/04/29/introducing-myself-benjamin.html
 [getl-how-to-start]: https://getlighthouse.com/blog/how-to-start-one-on-ones-your-teams/
 [popf-1on1-that-matters]: https://www.safaribooksonline.com/blog/2014/09/30/30-minutes-one-on-one/
 [hbr-small-wins]: https://hbr.org/2011/05/the-power-of-small-wins

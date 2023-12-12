@@ -29,7 +29,7 @@ Almost exactly four years ago, on the 14th of January 2013, I met [Oliver
 Vins](https://twitter.com/revilo1976) at [#wmfra](http://wmfra.de). He was not
 one to overlook, as he wore a bright yellow T-Shirt proclaiming that he and his
 co-founders were looking for a CTO to join their, then-to-be-founded, startup
-[vaamo][vaamo-de].
+vaamo [now defunct].
 
 On that evening I never expected to actually work with them, much less spend the
 longest time yet at a job, at that company, with Oliver and
@@ -208,11 +208,9 @@ a part of the wider tech community (or a specific subgroup).
 
 If you've made it here, you seem to be really interested in what I do. Come on,
 [reach out](/contact), write an email to
-[benjamin@squeakyvessel.com](mailto:benjamin@squeakyvessel.com) or ping
-[@benjamin](https://twitter.com/benjamin) on twitter.  
+[benjamin@squeakyvessel.com](mailto:benjamin@squeakyvessel.com).  
 Whether it's freelance work or a permanent position, we'll work out the details
 while talking.
 
-[vaamo-de]: https://www.vaamo.de/
 [so]: https://www.tbray.org/ongoing/When/201x/2015/04/11/So-What
 [bechdel]: https://twitter.com/seldo/status/571453200093437952

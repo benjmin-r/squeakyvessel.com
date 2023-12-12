@@ -24,7 +24,7 @@ Stuttgart](http://www.mitblick.de/agile-nacht-stuttgart). He asked
 a project's quality"?.
 
 In this short talk I present my personal opinion and the experience of my last
-years as [CTO of vaamo][codecraft-benjamin]. I argue, that while it's possible to
+years as CTO of vaamo. I argue, that while it's possible to
 employ practices such as Agile, Scrum & Software Craftsmanship to increase the
 quality of software projects (for varying degrees of quality), the actually
 important factors and the biggest leverage to increase quality and success of
@@ -49,6 +49,3 @@ share lessons learned in my role as CTO of vaamo:
 - [5 Years of Software Craftsmanship](/5-years-of-software-craftsmanship/)
 - [You're doing it wrong ...](/youre-doing-it-wrong/)
 - [Innovation & Value with Scala, not because](/innovation-value-scala/)
-
-
-[codecraft-benjamin]: http://codecraft.vaamo.de/2015/04/29/introducing-myself-benjamin.html

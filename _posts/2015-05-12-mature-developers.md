@@ -6,8 +6,8 @@ categories:
 summary: "Some time ago, as I started to spend more time on growing our tech team at vaamo again, I realized that I had put off one thing for much too long already: Putting down my definition of maturity and technical leadership in software teams.</p><p>In order to get this finally sorted out, I'll lay out the aspects that together make up a mature developer.</p>"
 ---
 
-Some time ago, as I started to spend more time on [growing our tech team at
-vaamo](http://codecraft.vaamo.de/jobs/) again, I realized that I had put off one
+Some time ago, as I started to spend more time on growing our tech team at
+vaamo again, I realized that I had put off one
 thing for much too long already: Putting down my definition of maturity and
 technical leadership in software teams.
 
