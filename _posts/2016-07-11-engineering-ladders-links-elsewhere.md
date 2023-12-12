@@ -6,7 +6,7 @@ categories:
 summary: "In order to make it easier to get inspired by other companies' engineering ladders, I decided to put together a complete list of all published engineering ladders."
 ---
 
-Sometime in summer 2015, when preparing yearly feedbacks for [my team at vaamo][codecraft], I started formulating our
+Sometime in summer 2015, when preparing yearly feedbacks for my team at vaamo, I started formulating our
 team's (engineering) ladder. Back then the concept of a ladder, the act of spelling out what the requirements and
 expectations for a specific role and position are, was pretty new to me. Still it immediately appealed to me.
 
@@ -306,7 +306,6 @@ Lots of 😍 to the following contributors so far:
 - [David Morgantini](https://github.com/benjmin-r/squeakyvessel.com/pull/3)
 - [Lena Reinhard](https://github.com/benjmin-r/squeakyvessel.com/pull/4)
 
-[codecraft]: http://codecraft.vaamo.de
 [rtr]: https://www.renttherunway.com/
 [skamille]: https://twitter.com/skamille
 [rtr-ladder]: http://dresscode.renttherunway.com/blog/ladder
