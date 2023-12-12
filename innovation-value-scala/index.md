@@ -6,11 +6,10 @@ categories: []
 tags: talk, speaking
 ---
 
-The talk first covers how we made our [technology
-choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html) in favor
-of Scala. It continues to take a look at the wanted and unwanted consequences of
-this choice and closes with my thoughts on how, if at all, it enabled the team
-to deliver innovation and value to our business.
+The talk first covers how we made our technology
+choice at vaamo in favor of Scala. It continues to take a look at the wanted and
+unwanted consequences of this choice and closes with my thoughts on how, if at
+all, it enabled the team to deliver innovation and value to our business.
 
 ### Conferences
 
@@ -60,8 +59,6 @@ src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Further Reading
 
-- [Vaamo's technology
-  choice](http://codecraft.vaamo.de/2014/09/12/our-technology-stack.html)
 - My follow-up talk ["You're doing it wrong"](/youre-doing-it-wrong/), where I
   talk less about Scala and more about what matters if technology is
   unimportant.
